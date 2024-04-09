@@ -76,4 +76,4 @@ async def spam(ctx, amount: int, *, message: str):
         await ctx.send("You don't have permission to use this command.")
 
 # Run the bot
-bot.run('MTIyNzEwMDQ2MzU4MTc1NzQ1MA.GLAi9j.a5IAsmJedr2rIUTGx5fA1sS7eKKnrNGd5ca-gM')
+bot.run('YOUR-BOT-TOKEN')
